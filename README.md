@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionziin&show_icons=true&theme=radical)
 
 
-
+![Snake animation](http://github.com/lionziin/lionziin/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Atualmente estou desenvolvendo um game em Unity2D
 - 🌱 Estou aprendendo C# enquanto progrido com GML
