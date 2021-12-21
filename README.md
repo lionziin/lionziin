@@ -16,6 +16,6 @@
 
 
 - 🔭 Atualmente estou desenvolvendo um game em Unity2D
-- 🌱 Estou aprendendo C# enquanto progrido com GML
+- 🌱 C# Lover ♥ enquanto progrido com GML
 - ⚡ Fato curioso? Amo Metroidvania ❤
 </div>
