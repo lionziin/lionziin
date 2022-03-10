@@ -15,7 +15,7 @@
 
 
 
-- 🔭 Atualmente estou desenvolvendo um game em Unity2D
-- 🌱 C# Lover ♥ enquanto progrido com GML
-- ⚡ Fato curioso? Amo Metroidvania ❤
+- 🔭 LionInk Apps
+- 🌱 C# DEV
+- ⚡ Student in JavaScript and .Lua Trybe 🐱‍🏍
 </div>
