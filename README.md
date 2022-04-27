@@ -17,5 +17,5 @@
 
 - 🔭 LionInk Apps
 - 🌱 C# DEV
-- ⚡ Student in JavaScript and .Lua Trybe 🐱‍🏍
+- ⚡ Trybe 🐱‍🏍
 </div>
