@@ -17,5 +17,4 @@
 
 - 🔭 LionInk Apps
 - 🌱 C# DEV
-- ⚡ Trybe 🐱‍🏍
 </div>
