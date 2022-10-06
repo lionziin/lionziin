@@ -16,5 +16,4 @@
 
 
 - 🔭 LionInk Apps
-- 🌱 C# DEV
 </div>
