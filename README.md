@@ -18,15 +18,8 @@ Sup! Everything up? My name is Gui lion! Have 25 years old when i typing this, i
 
 Send me a email to me!: [guilionleao@gmail.com](mailto:guilionleao@gmail.com)
 
-
 <!--
-
-
-
   ![Snake animation](https://github.com/lionziin/lionziin/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
 - 🔭 LionInk Apps
 </div>
